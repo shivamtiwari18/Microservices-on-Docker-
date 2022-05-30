@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+9a35df37fc969091b858b2297f010238fd3e2959 refs/heads/Dockerfile
+9c835f33eeba2dc12b12108e6df2384e5ab160dc refs/heads/docker-setup
+50b64c4a48f72b095e78c318e6da48d4f015b4c4 refs/heads/helm
+d607166ea1bf7eae9b5909d204a2990744fdbb89 refs/heads/helm-charts
+9f60066e1ba92aa54582cb6c457ebc33850ae7a1 refs/heads/kubernetes-manifest
+df9fe3f5829939b20061a606f8c85b1ad2fc5ad8 refs/heads/main
+d16a94b78139eeb70058ad721a0451b0aa91e89d refs/heads/monitoring
+34fecf0cb70275f89eeb8725f8946281a3490e44 refs/heads/ui-repo-geo
